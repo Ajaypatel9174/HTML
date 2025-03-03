@@ -1,23 +1,19 @@
-#con{
+#headpart{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-color: rgb(83, 114, 72);
+    justify-content: space-between;
+}
 
-color: brown;
+#headpart nav ul{
+    display: flex;
+    gap: 80px;
+     
+}
+
+#headpart div{
 display: flex;
-justify-content: center;
-gap: 10%;
-align-self: center;
+gap: 100px;
 
 }
-
-.para{
-
-gap: 10%;
-
-
-}
-.new{
-
-color: rgb(43, 128, 39);
-
-}
-
-
