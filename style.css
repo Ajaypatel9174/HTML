@@ -13,4 +13,21 @@ text-transform: capitalize;
 text-decoration: underline;
 text-decoration-color: blue;
 text-decoration-style: wavy;
+letter-spacing: 30px;
+text-shadow: 10px 10px 5px blue;
+}
+.para{
+font-weight: bold;
+font-style: italic;
+word-spacing: 50px;
+line-height: 60px;
+}
+
+.wrapper{
+
+background-color: tomato;
+color: white;
+padding: 20px;
+
+
 }
