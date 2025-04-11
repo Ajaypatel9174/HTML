@@ -31,3 +31,27 @@ padding: 20px;
 
 
 }
+.wrapper1{
+    background-color: blue;
+    color: whitesmoke;
+    padding: 20px;
+    margin: 20px;
+    border-right: 13px solid yellowgreen;
+    border-top-left-radius: 30px;
+    width: 200px ;
+  box-shadow: 3px 4px 6px 7px black ;
+}
+.parent{
+
+display: flex;
+
+
+}
+h1{
+
+border: 2px solid red;
+margin: 20px;
+padding: 20px;
+
+
+}
