@@ -1,13 +1,19 @@
 .burger{
 
-background-color: darkslategray;
+
 display: flex;
 justify-content: space-evenly;
 padding: 230px;
+margin: 10px;
+gap: 70px;
+
+
 
 }
 button{
 
 background-color: red;
+color: white;
+
 
 }
