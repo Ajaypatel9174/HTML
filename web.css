@@ -1,0 +1,29 @@
+body{
+
+margin: 0%;
+
+}
+
+
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    
+    border: 2px solid black;
+    align-items: center;
+    top: 0px;
+    width: 100%;
+    background-color: aqua ;
+    
+}
+.navbar ul{
+display: flex;
+list-style: none;
+gap: 40px;
+
+
+
+
+
+}
