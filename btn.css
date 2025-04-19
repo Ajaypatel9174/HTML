@@ -1,0 +1,37 @@
+.btn:hover{
+
+    background-color: red;
+    color: white;
+    border: 1px solid gray;
+    padding: 3px;
+    border-radius: 2px;
+}
+.head1:hover{
+
+color: blue;
+
+
+}
+.head2:hover{
+
+border-radius: 50%;
+border :1px solid;
+padding: 3px;
+
+
+}
+img:hover{
+    border-radius: 50%;
+    border: 5px solid black;
+    padding: 3px;
+
+
+
+
+}
+
+
+
+
+
+

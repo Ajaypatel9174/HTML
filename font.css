@@ -1,0 +1,17 @@
+h1{
+    font-family: "Playwrite RO", cursive;
+
+}
+h2{
+    font-family: "Playwrite RO", cursive;
+
+}
+.name::after{
+
+    content: "patel";
+    color: red;
+}
+.name::before{
+    content:"mr.";
+    color: blue;
+}

@@ -1,0 +1,10 @@
+input::{
+
+color: red;
+padding: 30PX;
+
+}
+p::selection{
+    color: white;
+    background-color: aqua;
+}
