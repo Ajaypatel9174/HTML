@@ -1,9 +1,10 @@
 .new{
 
-background-color: blue;
+/* background-color: blue; */
 justify-content: space-evenly;
 display: flex;
 flex-wrap: wrap;
+padding-top: 60px;
 
 }
 
